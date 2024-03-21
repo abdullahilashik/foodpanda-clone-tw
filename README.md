@@ -1,4 +1,4 @@
-# Foodpanda Close (Bangladesh)
+# Foodpanda Clone (Bangladesh)
 
 Hey folks, we are gonna make a home page clone of Foodpanda bangladesh using react js and tailwindcss. We will use all the color scheme, icons, images and texts directly from foodpanda website.
 
